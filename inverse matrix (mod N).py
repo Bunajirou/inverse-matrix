@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 20 11:21:07 2021
-
-@author: bunat
-"""
-
 print('(a,b)\n'
       '(c,d) (mod N)\n')
 
